@@ -66,4 +66,4 @@ Bash
 pip install pandas numpy scikit-learn matplotlib
 Run the Python script or Jupyter Notebook containing the code.
 
-by vira..
+by sema
